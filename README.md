@@ -10,9 +10,9 @@
 
 到右側 **Releases** 下載最新版的 `.dmg`：
 
-1. 雙擊下載的 `.dmg`，會打開「ASheng 外掛版本管理」視窗。
-2. 雙擊「AShengPluginManager」，macOS 詢問時按「打開」。
-3. 管理器會自動放進你使用者資料夾裡的「應用程式」，之後用 Spotlight 搜尋「ASheng」就能打開。
+1. 雙擊下載的 `.dmg`，會出現安裝視窗。
+2. 把左邊的「AShengPluginManager」拖到右邊的「應用程式」資料夾。
+3. 從「應用程式」打開（第一次 macOS 詢問時按「打開」），之後也可以用 Spotlight 搜尋「ASheng」。
 
 每個版本的 SHA-256 都列在 Release 說明裡，也可以和下載頁上的數字核對。
 
